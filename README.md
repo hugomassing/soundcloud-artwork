@@ -9,7 +9,7 @@ Made with :
 - [styled-component](https://www.styled-components.com/)
 
 Hosted on :
-- [zeit.co](https://zeit.co)
+- [vercel.com](https://vercel.com/)
 
 TODO :
 - better animation for the search bar
